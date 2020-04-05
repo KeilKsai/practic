@@ -1,0 +1,21 @@
+let money;
+let AddExpenses;
+let deposit;
+let mission;
+let period;
+let income;
+
+money=800;
+console.log(money);
+income=0;
+console.log(0);
+deposit=false;
+console.log(deposit);
+AddExpenses=84,69,150;
+console.log(AddExpenses);
+period=3;
+console.log(period);
+mission=4000;
+console.log(AddExpenses.toLocaleLowerCase());
+budgetDay=300;
+console.log(budgetDay);
